@@ -1,0 +1,61 @@
+8.00-8.40
+8.50-9.30
+9.55-10.35
+10.45-11.25
+11.50-12.30
+14.00-14.40
+14.50-15.30
+15.55-16.35
+16.45-17.25
+17.50-18.30
+
+APJ 2/C#
+APJ 2/C#
+Sft Arch(L)
+Sft Arch(L)
+null
+Android
+KZ/RU
+KZ/RU
+null
+null
+
+Statistics(L)
+Statistics(L)
+Android
+Android
+Sft Arch
+null
+OS&CN
+null
+null
+null
+
+IOS/Py
+IOS/Py
+Statistics
+Statistics
+APJ 2/C#
+null
+OS&CN
+OS&CN
+Android
+null
+
+null
+OS&CN
+OS&CN
+Statistics
+KZ/RU
+KZ/RU
+IOS/Py
+IOS/Py
+IOS/Py
+null
+
+APJ 2/C#
+APJ 2/C#
+Sft Arch
+Sft Arch
+Android
+KZ/RU

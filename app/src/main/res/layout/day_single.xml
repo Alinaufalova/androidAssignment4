@@ -1,0 +1,30 @@
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lesson_name"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:text="lesson_name"
+        android:layout_margin="10dp"
+        >
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lesson_time"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_alignParentRight="true"
+        android:text="lesson_time"
+        android:layout_margin="10dp"
+        >
+    </TextView>
+
+</RelativeLayout>

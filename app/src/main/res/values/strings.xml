@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Timetable</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item>APJ 2/C#</item>
+        <item>APJ 2/C#</item>
+        <item>Sft Arch(L)</item>
+        <item>Sft Arch(L)</item>
+        <item>null</item>
+        <item>Android</item>
+        <item>KZ/RU</item>
+        <item>KZ/RU</item>
+        <item>null</item>
+        <item>null</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>8.00-8.40</item>
+        <item>8.50-9.30</item>
+        <item>9.55-10.35</item>
+        <item>10.45-11.25</item>
+        <item>11.50-12.30</item>
+        <item>14.00-14.40</item>
+        <item>14.50-15.30</item>
+        <item>15.55-16.35</item>
+        <item>16.45-17.25</item>
+        <item>17.50-18.30</item>
+    </string-array>
+</resources>
